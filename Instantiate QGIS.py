@@ -1,7 +1,5 @@
 # Imports
 
-from osgeo import ogr
-
 import qgis
 
 from qgis.core import (QgsMapClippingRegion,
